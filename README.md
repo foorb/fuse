@@ -31,8 +31,9 @@ Usage
 
 1) Install dependencies:
 
-You need libcurl and libfuse to build remoteStorage-fuse. On Debian based 
-systems, this should do the trick:
+You need libcurl and libfuse to build remoteStorage-fuse.  
+
+On Debian / Ubuntu:
 
     $ sudo apt-get install build-essential libfuse-dev libcurl4-openssl-dev
 
